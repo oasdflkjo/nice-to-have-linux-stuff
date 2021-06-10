@@ -1,7 +1,0 @@
-put these lines to ~/.bashrc
-
-# tab completes names
-bind '"\t":menu-complete'
-
-# tab ignores cases
-bind 'set completion-ignore-case on'
