@@ -1,10 +1,10 @@
 # Nice to have linux stuff
 
-install oh my posh
+##install oh my posh
 https://ohmyposh.dev/docs/linux
 
 
-put these lines to ~/.bashrc
+##put these lines to `~/.bashrc`
 
 tab completes names
 ```bash
@@ -22,4 +22,3 @@ terminal emulator has to have fonts that support special characters
 ```bash
 eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/stelbent.minimal.omp.json)"
 ```
-
