@@ -1,5 +1,5 @@
 # Nice to have linux stuff
-!(Capture.PNG)
+![screencap](Capture.PNG)
 
 how to reload bash 
 `. ~/.bashrc`
