@@ -1,4 +1,5 @@
 # Nice to have linux stuff
+!(Capture.PNG)
 
 how to reload bash 
 `. ~/.bashrc`
