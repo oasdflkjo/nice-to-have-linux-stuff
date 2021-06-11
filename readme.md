@@ -28,7 +28,7 @@ eval "$(oh-my-posh --init --shell bash --config ~/.poshthemes/stelbent.minimal.o
 
 :))
 ```bash
-alias lsa='ls -a;pwd'
+alias lsa='ls -a'
 alias ..='cd ..;pwd'
 alias ...='cd ../..;pwd'
 alias ....='cd ../../..;pwd'
