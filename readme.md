@@ -9,7 +9,7 @@ open .bashrc and add following lines
 nano ~/.bashrc
 ```
 
-1. tab completes names
+1. tab cycle
 ```bash
 bind '"\t":menu-complete'
 ```
