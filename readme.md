@@ -5,7 +5,9 @@ install oh my posh
 https://ohmyposh.dev/docs/linux
 
 open .bashrc and add following lines
-`nano ~/.bashrc`
+```bash
+nano ~/.bashrc
+```
 
 1. tab completes names
 ```bash
